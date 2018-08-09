@@ -3,12 +3,12 @@
 ## Cloud Storage UI
 http://138.128.187.10:11342/cloud-storage-proto/
 
-Username/password: <empty>/<empty>
+Login -> username/password: _empty_/_empty_
 
 ## Storage Sizing Tool and TCO
 http://138.128.187.10:11342/sp.html
 
 Username/password: tool/white
 
-## Small Business Site (live)
+## Small Business Project (live/production)
 https://pretty-pallets.com
