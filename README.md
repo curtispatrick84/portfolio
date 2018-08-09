@@ -10,5 +10,5 @@ http://138.128.187.10:11342/sp.html
 
 Username/password: tool/white
 
-## Small Business Project (live/production)
+## Pretty Pallets, LLC (production site)
 https://pretty-pallets.com
