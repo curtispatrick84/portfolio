@@ -8,7 +8,7 @@ Username/password: tool/white
 ## Cloud Storage UI
 http://138.128.187.10:11342/cloud-storage-proto
 
-Username/password: tool/white
+Username/password: tool/white  
 UI Login username/password: _empty_/_empty_
 
 ## Pretty Pallets, LLC (production site)
